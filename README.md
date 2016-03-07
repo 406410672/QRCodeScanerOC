@@ -7,3 +7,5 @@
 给个star支持下咯
 
 这个是OC版本的，过段时间会有Swift版本的～😁
+
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
